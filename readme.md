@@ -1,3 +1,4 @@
+downloading winrar is required, password of the .zip file: 123
 # This is a repository which has a virus, will not harm your system but will do these:
 
 - GDI Effects
