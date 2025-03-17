@@ -1,0 +1,1 @@
+This virus just disables task manager and adds itself to startup and displays annoying popups
